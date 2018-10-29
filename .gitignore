@@ -1,0 +1,9 @@
+
+*.ipch
+badcheat/.vs/1000base/v15/.suo
+*.db
+*.pdb
+*.idb
+*.obj
+*.tlog
+*.log
